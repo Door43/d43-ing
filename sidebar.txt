@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ing:home|Door43 (ing)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ing|d43-ing repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ing/archive/master.zip|d43-ing.zip]]
+
+**Recent Changes**
+{{changes>ns = ing}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ing|Ethnologue data]]
+
